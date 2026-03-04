@@ -1,0 +1,63 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "hm13101998adf"
+		},
+		"ADLS_Customer_json_Linkedservice_accountKey": {
+			"value": ""
+		},
+		"ADLS_LinkedService_accountKey": {
+			"value": ""
+		},
+		"SQL_DB_Customer_Linked_Service_password": {
+			"value": ""
+		},
+		"SQL_DB_LinkedService_password": {
+			"value": ""
+		},
+		"adls_product_Linkedservice_accountKey": {
+			"value": ""
+		},
+		"sqldb_product_LinkedService_password": {
+			"value": ""
+		},
+		"ADLS_Customer_json_Linkedservice_properties_typeProperties_url": {
+			"value": "https://hm13101998adls.dfs.core.windows.net/"
+		},
+		"ADLS_LinkedService_properties_typeProperties_url": {
+			"value": "https://hm13101998adls.dfs.core.windows.net/"
+		},
+		"SQL_DB_Customer_Linked_Service_properties_typeProperties_server": {
+			"value": "mission100server.database.windows.net"
+		},
+		"SQL_DB_Customer_Linked_Service_properties_typeProperties_database": {
+			"value": "hm13101998db"
+		},
+		"SQL_DB_Customer_Linked_Service_properties_typeProperties_userName": {
+			"value": "azure"
+		},
+		"SQL_DB_LinkedService_properties_typeProperties_server": {
+			"value": "mission100server.database.windows.net"
+		},
+		"SQL_DB_LinkedService_properties_typeProperties_database": {
+			"value": "hm13101998db"
+		},
+		"SQL_DB_LinkedService_properties_typeProperties_userName": {
+			"value": "azure"
+		},
+		"adls_product_Linkedservice_properties_typeProperties_url": {
+			"value": "https://hm13101998adls.dfs.core.windows.net/"
+		},
+		"sqldb_product_LinkedService_properties_typeProperties_server": {
+			"value": "mission100server.database.windows.net"
+		},
+		"sqldb_product_LinkedService_properties_typeProperties_database": {
+			"value": "hm13101998db"
+		},
+		"sqldb_product_LinkedService_properties_typeProperties_userName": {
+			"value": "azure"
+		}
+	}
+}
