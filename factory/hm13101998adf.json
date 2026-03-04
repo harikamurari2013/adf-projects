@@ -1,0 +1,9 @@
+{
+	"name": "hm13101998adf",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd4c8d3d-dc58-4646-8f77-6bd1f01c7cb4",
+		"tenantId": "0f390327-9ec9-4ece-b3d7-c92418a0a51f"
+	}
+}
